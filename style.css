@@ -1,0 +1,11 @@
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: blueviolet;
+}
+
+body {
+    background-color: aquamarine;
+    max-width: 600px;
+    margin: 0 auto;
+}
